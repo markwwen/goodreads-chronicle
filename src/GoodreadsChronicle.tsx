@@ -90,8 +90,7 @@ export default function WenhaoChronicle() {
           好书编年史
         </h1>
         <p className="text-base max-w-xl">
-          本清单取自截止 2017 年 goodreads 上的评分人数 top 10000 的记录，让我们跟随时间的年轮，走进一部部不朽的文学杰作。
-        </p>
+        这份书单横跨近四千年（公元前 1750 年至公元 2017 年），精选人类文明出现来 Goodreads 上评分人数排名前一万的文学杰作。让我们沿着时光的年轮，一步步走进这些跨越世纪的不朽之作。</p>
       </div>
       <div className="flex gap-4 mb-6 flex-wrap justify-center">
         {/* 切换排序按钮 */}
